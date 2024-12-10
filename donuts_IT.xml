@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<donuts>
+    <donut>
+        <id>1</id>
+        <product_name>Glazed Donut</product_name>
+        <price>1.10</price>
+        <reduction-price>0.75</reduction-price>
+        <currency>EUR</currency>
+        <stock>50</stock>
+    </donut>
+    <donut>
+        <id>2</id>
+        <product_name>Chocolate Donut</product_name>
+        <price>1.65</price>
+        <reduction-price>1.25</reduction-price>
+        <currency>EUR</currency>
+        <stock>110</stock>
+    </donut>
+    <donut>
+        <id>3</id>
+        <product_name>Strawberry Donut</product_name>
+        <price>1.35</price>
+        <reduction-price>0.85</reduction-price>
+        <currency>EUR</currency>
+        <stock>67</stock>
+    </donut>
+    <donut>
+        <id>4</id>
+        <product_name>Boston Cream Donut</product_name>
+        <price>1.85</price>
+        <reduction-price>1.35</reduction-price>
+        <currency>EUR</currency>
+        <stock>130</stock>
+    </donut>
+</donuts>
