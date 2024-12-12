@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<donuts>
+    <donut>
+        <id>1</id>
+        <product_name>Glazed Donut</product_name>
+        <price>2.50</price>
+        <reduction-price>1.90</reduction-price>
+        <currency>AUD</currency>
+        <stock>45</stock>
+    </donut>
+    <donut>
+        <id>2</id>
+        <product_name>Chocolate Donut</product_name>
+        <price>2.80</price>
+        <reduction-price>2.30</reduction-price>
+        <currency>AUD</currency>
+        <stock>105</stock>
+    </donut>
+    <donut>
+        <id>3</id>
+        <product_name>Strawberry Donut</product_name>
+        <price>2.60</price>
+        <reduction-price>2.10</reduction-price>
+        <currency>AUD</currency>
+        <stock>120</stock>
+    </donut>
+    <donut>
+        <id>4</id>
+        <product_name>Boston Cream Donut</product_name>
+        <price>3.00</price>
+        <reduction-price>2.50</reduction-price>
+        <currency>AUD</currency>
+        <stock>60</stock>
+    </donut>
+</donuts>
