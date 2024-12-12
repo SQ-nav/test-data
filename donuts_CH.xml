@@ -2,7 +2,7 @@
 <donuts>
     <donut>
         <id>1</id>
-        <product_name>Glazed Donut</product_name>
+        <product_name>Beignet Glacé</product_name>
         <price>1.30</price>
         <reduction-price>0.95</reduction-price>
         <currency>CHF</currency>
@@ -10,7 +10,7 @@
     </donut>
     <donut>
         <id>2</id>
-        <product_name>Chocolate Donut</product_name>
+        <product_name>Beignet au Chocolat</product_name>
         <price>1.85</price>
         <reduction-price>1.45</reduction-price>
         <currency>CHF</currency>
@@ -18,7 +18,7 @@
     </donut>
     <donut>
         <id>3</id>
-        <product_name>Strawberry Donut</product_name>
+        <product_name>Beignet à la Fraise</product_name>
         <price>1.55</price>
         <reduction-price>1.05</reduction-price>
         <currency>CHF</currency>
@@ -26,7 +26,7 @@
     </donut>
     <donut>
         <id>4</id>
-        <product_name>Boston Cream Donut</product_name>
+        <product_name>Beignet à la Crème Boston</product_name>
         <price>2.05</price>
         <reduction-price>1.55</reduction-price>
         <currency>CHF</currency>
