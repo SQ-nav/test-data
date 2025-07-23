@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <name>Fire Zinger Twister</name>
+    <price>19.90</price>
+    <image>https://www.kfc-suisse.ch/fileadmin/_processed_/9/4/csm_thumbs_fire-zinger-twister_588dc2cc19.png</image>
+  </product>
+  <product>
+    <name>Veggie Twister</name>
+    <price>17.80</price>
+    <image>https://www.kfc-suisse.ch/fileadmin/_processed_/3/0/csm_twister-veggie_659bd02fe6.png</image>
+  </product>
+  <product>
+    <name>Colonel Original</name>
+    <price>21.50</price>
+    <image>https://www.kfc-suisse.ch/fileadmin/_processed_/2/a/csm_colonel-original_8da5a5f58e.png</image>
+  </product>
+  <product>
+    <name>Fire Zinger Burger</name>
+    <price>23.90</price>
+    <image>https://www.kfc-suisse.ch/fileadmin/_processed_/e/7/csm_thumbs_fire-zinger-burger_2015201363.png</image>
+  </product>
+</products>
