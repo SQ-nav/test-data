@@ -12,12 +12,12 @@
   <game>6/49+Bonus</game>
 
   <ball1>4</ball1>
-  <ball2>12</ball2>
-  <ball3>27</ball3>
+  <ball2>5</ball2>
+  <ball3>8</ball3>
   <ball4>33</ball4>
   <ball5>38</ball5>
-  <ball6>45</ball6>
-  <bonus>7</bonus>
+  <ball6>55</ball6>
+  <bonus>1</bonus>
 
   <oddsJackpot>13983816</oddsJackpot>
 </lotteryDashboard>
