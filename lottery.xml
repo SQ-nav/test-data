@@ -10,7 +10,14 @@
   <rngSeed>AB12CD</rngSeed>
   <nextDraw>2025-09-06T20:30:00+02:00</nextDraw>
   <game>6/49+Bonus</game>
-  <winningNumbers>4,12,27,33,38,45</winningNumbers>
+
+  <ball1>4</ball1>
+  <ball2>12</ball2>
+  <ball3>27</ball3>
+  <ball4>33</ball4>
+  <ball5>38</ball5>
+  <ball6>45</ball6>
   <bonus>7</bonus>
+
   <oddsJackpot>13983816</oddsJackpot>
 </lotteryDashboard>
