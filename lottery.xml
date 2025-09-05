@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lotteryDashboard version="1.0">
   <generatedAt>2025-09-05T10:00:00+02:00</generatedAt>
-  <currency>CHF</currency>
-  <jackpot currency="CHF">154000000</jackpot>
+  <currency>SGD</currency>
+  <jackpot currency="SGD">154000000</jackpot>
   <ticketsSold>845230</ticketsSold>
   <rollovers>3</rollovers>
-  <ticketPrice currency="CHF">4.50</ticketPrice>
+  <ticketPrice currency="SGD">4.50</ticketPrice>
   <seriesId>D-4287</seriesId>
   <rngSeed>AB12CD</rngSeed>
   <nextDraw>2025-09-06T20:30:00+02:00</nextDraw>
