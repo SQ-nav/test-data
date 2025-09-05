@@ -1,31 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <lotteryDashboard version="1.0">
-<meta>
-<generatedAt>2025-09-05T10:00:00+02:00</generatedAt>
-<currency>CHF</currency>
-</meta>
-<current>
-<jackpot currency="CHF">154000000</jackpot>
-<ticketsSold>845230</ticketsSold>
-<rollovers>3</rollovers>
-<ticketPrice currency="CHF">4.50</ticketPrice>
-<seriesId>D-4287</seriesId>
-<rngSeed>AB12CD</rngSeed>
-</current>
-<schedule>
-<nextDraw>2025-09-06T20:30:00+02:00</nextDraw>
-</schedule>
-<lastWinningNumbers game="6/49+Bonus">
-<numbers>
-<number>4</number>
-<number>12</number>
-<number>27</number>
-<number>33</number>
-<number>38</number>
-<number>45</number>
-</numbers>
-<bonus>7</bonus>
-</lastWinningNumbers>
-<notes>
-<oddsJackpot>13983816</oddsJackpot>
-</notes>
+  <generatedAt>2025-09-05T10:00:00+02:00</generatedAt>
+  <currency>CHF</currency>
+  <jackpot currency="CHF">154000000</jackpot>
+  <ticketsSold>845230</ticketsSold>
+  <rollovers>3</rollovers>
+  <ticketPrice currency="CHF">4.50</ticketPrice>
+  <seriesId>D-4287</seriesId>
+  <rngSeed>AB12CD</rngSeed>
+  <nextDraw>2025-09-06T20:30:00+02:00</nextDraw>
+  <game>6/49+Bonus</game>
+  <winningNumbers>4,12,27,33,38,45</winningNumbers>
+  <bonus>7</bonus>
+  <oddsJackpot>13983816</oddsJackpot>
 </lotteryDashboard>
